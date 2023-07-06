@@ -4,7 +4,8 @@ I recently realised that no other page or app provided the facility of translati
 
 Generally google translate does not allow translation of content above 3900 caharacters - google translate (web) & 5000 characters - google translate app
 
-![g2](https://github.com/Adarsh-2003/Text-to-web-bridge/assets/83753875/6db8e00d-b5d1-44f5-8e89-ff61b30446d8)
+![g2](https://github.com/Adarsh-2003/Text-to-web-bridge/assets/83753875/076f8d09-72a1-4fd5-9890-570725ad9987)
+
 
 
 Since it is possible to change language of entire page hosted on web so i took advantage of this part :)
